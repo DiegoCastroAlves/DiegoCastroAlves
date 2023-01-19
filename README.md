@@ -33,7 +33,6 @@ Sinta-se à vontade para entrar em contato ou conectar-se comigo, estou sempre a
 
 ##
 
-
 <div style="display: flex; flex-direction: row; gap:5px">
   <div>
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastroAlves&layout=compact&langs_count=7&theme=dark"/>
@@ -44,8 +43,3 @@ Sinta-se à vontade para entrar em contato ou conectar-se comigo, estou sempre a
     <img  height="69%" src="https://github-readme-stats.vercel.app/api?username=DiegoCastroAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
 </div>
-
- ![Diego's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastroalves&layout=compact&langs_count=6&height=100&width=100&theme=dark)
-
-  ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocastroalves&theme=dark)
-
