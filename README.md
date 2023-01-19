@@ -34,11 +34,11 @@ Sinta-se à vontade para entrar em contato ou conectar-se comigo, estou sempre a
 
 <div style="display: flex; flex-direction: row; gap:5px">
   <div>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastroAlves&layout=compact&langs_count=7&theme=dark"/>
- 
+  <img  height="69%" src="https://github-readme-stats.vercel.app/api?username=DiegoCastroAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
   </div>
 
   <div>
-    <img  height="69%" src="https://github-readme-stats.vercel.app/api?username=DiegoCastroAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastroAlves&layout=compact&langs_count=7&theme=dark"/>
   </div>
 </div>
