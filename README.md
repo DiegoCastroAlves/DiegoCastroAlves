@@ -1,4 +1,5 @@
 ### Hi there 👋
+:html:, :css3:, :javascript:, :typescript:, :react:, :python:, :nodejs:, :mysql:
 
 <!--
 **DiegoCastroAlves/DiegoCastroAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
