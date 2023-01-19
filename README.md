@@ -13,7 +13,7 @@ Atualmente, estou estudando na Trybe, uma empresa de ensino de programação Ful
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Diego-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/961693429480448070/1065736914516320307/persona.png">
-</div><br>
+</div>
 
 ##
 
