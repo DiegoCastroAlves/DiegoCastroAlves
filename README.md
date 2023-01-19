@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil no Github, sou Diego Castro Alves! 👋
+# Bem-vindo ao meu Github, sou Diego Castro Alves! 👋
 
 Meu nome é , sou estudante de programação Fullstack e estou aprendendo as seguintes tecnologias:
 <br>
