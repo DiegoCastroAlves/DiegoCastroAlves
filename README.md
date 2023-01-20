@@ -44,12 +44,12 @@ Sinta-se à vontade para entrar em contato ou conectar-se comigo, estou sempre a
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="180em" srcset="https://github-readme-stats.vercel.app/api?username=diegocastroalves&show_icons=true&include_all_commits=true&count_private=true&theme=react">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocastroalves&show_icons=true&include_all_commits=true&count_private=true&theme=swift">
+    <source media="(prefers-color-scheme: dark)" height="160em" srcset="https://github-readme-stats.vercel.app/api?username=diegocastroalves&show_icons=true&include_all_commits=true&count_private=true&theme=react">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegocastroalves&show_icons=true&include_all_commits=true&count_private=true&theme=swift">
   </picture>
   &nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" align="left" height="180em" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastroalves&layout=compact&langs_count=7&theme=react">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastroalves&layout=compact&langs_count=7&theme=swift">
+    <source media="(prefers-color-scheme: dark)" align="left" height="160em" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastroalves&layout=compact&langs_count=7&theme=react">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastroalves&layout=compact&langs_count=7&theme=swift">
   </picture>
 </div>
